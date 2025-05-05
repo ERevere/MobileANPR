@@ -50,7 +50,7 @@ This will produce:
 - Double-click MobileANPR.local.crt.
 
 
-- It will open in Keychain Access. Set it to "Always Trust" under "System" or "Login" keychain.
+- Set it to "Always Trust" under "System" or "Login" keychain.
 
 ### Running the Back-End
 The back-end consists of two main components:
