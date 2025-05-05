@@ -8,7 +8,7 @@ MobileANPR is a personal use real-time vehicle monitoring system which alerts us
 
 - **Back-end Server**: Flask-powered HTTPS server that serves live vehicle data and dynamic connection strings.
 - **Image Processing**: TensorFlow w/ MobileNetV2, CV2, and Fast-ALPR enable real-time image capture, preprocessing, and vehicle/registration recognition.
-- iOS App: Securely communicates with the server to present the user interface and handle alerts.
+- **iOS App**: Securely communicates with the server to present the user interface and handle alerts.
 
 
 
