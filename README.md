@@ -16,7 +16,7 @@ MobileANPR is a personal use real-time vehicle monitoring system which alerts us
 
 - User-friendly UI/UX for use in a driving environment  
 
-- Accessible design with both visual and audio indicators 
+- Accessible design with both visual, haptic, and audio indicators 
 
 
 - Compliant with all UK/EU Data Protection Regulations
