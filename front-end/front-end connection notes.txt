@@ -1,1 +1,0 @@
-Ensure either cert is installed on MacOS/iOS Simulator, or change mDNS address to http://
