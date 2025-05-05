@@ -74,7 +74,7 @@ python3 captureProcess.py
 
 
 
-## 📖 Acknowledgements
+## Acknowledgements
 
 This project makes use of the following open-source tools and libraries:
 
