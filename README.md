@@ -79,7 +79,7 @@ python3 captureProcess.py
 This project makes use of the following open-source tools and libraries:
 
 - [Fast_ALPR](https://github.com/ankandrew/fast-alpr) – Lightweight ALPR
-- [Flask](https://github.com/pallets/flask) – Web framework used for the HTTPS server  
+- [Flask](https://github.com/pallets/flask) – Web framework used for the web-server  
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) – HTML and XML parsing  
 - [OpenCV](https://github.com/opencv/opencv) – Real-time computer vision library for image processing  
 - [NumPy](https://github.com/numpy/numpy) –  Arrays and matrices  
