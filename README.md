@@ -21,7 +21,7 @@ MobileANPR is a personal use real-time vehicle monitoring system which alerts us
 
 - Compliant with all UK/EU Data Protection Regulations
 
-- Meets heuristic and accessibiltiy standards, such as ISO-9241-11, Apple’s Human Interface and Accessibility Guidelines, and WCAG 2.1.
+- Meets heuristic and accessibility standards, such as ISO-9241-11, Apple’s Human Interface and Accessibility Guidelines, and WCAG 2.1.
 
 
 
