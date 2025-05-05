@@ -1,0 +1,1 @@
+Ensure HTTPS certificate is installed on both MacOS and iOS simulator, alternatively, change the mDNS address (viewController.swift) to http://.
